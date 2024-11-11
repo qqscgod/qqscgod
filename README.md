@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is QQ
 ==========================================================================================================================
 
-IT Support
+IT Support Engineering & Networking
 ----------
 
 I'm working on various hardware and software Have a slight interest in coding. But my main job is mostly server and networking💜
